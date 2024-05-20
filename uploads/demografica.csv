@@ -1,0 +1,71 @@
+tipo,codigo,tipoPergunta,descricao,pergunta
+D,1,texto,Pesquisador,
+D,2,texto,Nome do Entrevistado,
+D,3,texto,Fone,
+D,4,texto,Rua/Av.,
+D,5,texto,Nº,
+D,6,alternativa,Bairro/Distrito,
+A,1,,Becker,6
+A,2,,Bressan,6
+A,3,,Centro,6
+A,4,,Concórdia,6
+A,5,,Coopagro,6
+A,6,,Europa/América,6
+A,7,,Gisela,6
+A,8,,Independência,6
+A,9,,Industrial,6
+A,10,,La Salle,6
+A,11,,Operária,6
+A,12,,Pancera,6
+A,13,,Panorama,6
+A,14,,Parizotto,6
+A,15,,Pinheirinho,6 
+A,16,,Pioneira,6
+A,17,,Porto Alegre,6
+A,18,,Santa Maria,6 
+A,19,,São Francisco,6 
+A,20,,Tocantins,6
+D,7,alternativa,Qual é a sua idade?,
+A,1,,16 a 17 anos,7
+A,2,,18 a 24 anos,7
+A,3,,25 a 34 anos,7
+A,4,,35 a 44 anos,7
+A,5,,45 a 59 anos,7
+A,6,,60 a 69 anos ,7
+A,7,,  + de 70 anos,7
+A,8,,Recusou informar,7
+D,8,alternativa,Sexo do entrevistado (a)?,
+A,1,,Feminino,8
+A,2,,Masculino,8
+D,9,alternativa,Qual o seu grau de instrução?,9
+A,1,,Analfabeto ,9
+A,2,,Ens. Fund. Incompleto (1° grau),9
+A,3,,Ens. Fund. Completo (1° grau),9
+A,4,,Ens. Médio Incompleto (2° grau),9
+A,5,,Ens. Médio Completo (2° grau),9
+A,6,,Superior Incompleto (3º grau),9                             
+A,7,,Superior Completo (3º grau),9
+A,8,,Pós-Graduação,9
+A,9,,Recusou informar,9
+D,10,alternativa,Qual é a sua ocupação principal?,
+A,1,,Afastado pelo INSS,10
+A,2,,Agricultor (a),10
+A,3,,Aposentado (a),10
+A,4,,Assalariado (a),10
+A,5,,Autônomo (a),10
+A,6,,Desempregado (a),10
+A,7,,Empresário (a),10
+A,8,,Estudante,10
+A,9,,Freelancer / Bico ,10
+A,10,,Funcionário Público ,10
+A,11,,Profissional Liberal ,10
+A,12,,Trabalha em Casa,10
+A,13,,Recusou informar,10
+D,11,alternativa,Qual é a renda mensal na sua casa? ,
+A,1,,Até 1 Salário Mínimo R$ 937,00,11
+A,2,,De 1 até 3 Salários (R$ 937,01 a 2.811,00),11
+A,3,,De 3 até 5 Salários (R$ 2.811,01 a 4.685,00),11
+A,4,,De 5 até 7 Salários (R$ 4.685,01 a 6.559,00),11
+A,5,,De 7 acima (R$ 6.559,01 a +),11
+A,6,,Não sabe responder,11
+A,7,,Recusou informar,11

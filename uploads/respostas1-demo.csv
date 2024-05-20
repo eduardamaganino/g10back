@@ -1,0 +1,420 @@
+CODIGO ,6602fc17c28bc23b88692085 ,6602fc17c28bc23b88692088 ,6602fc18c28bc23b8869208b ,6602fc18c28bc23b8869208e ,6602fc19c28bc23b88692091 ,6602fc19c28bc23b88692094 ,6602fc1ac28bc23b88692191 ,6602fc1bc28bc23b886921c8 ,6602fc1bc28bc23b886921d2 ,6602fc1cc28bc23b88692214 ,6602fc1cc28bc23b8869228c 
+1,Everton,Adilson meurer,991013638,Britania,110,Becker,45 a 59 anos,Masculino,Superior Completo (3� grau),Aut�nomo (a),De 5 at� 7 Sal�rios
+2,Everton,Maria lis,999191099,Redentor,286,Becker,60 a 69 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Aposentado (a),De 1 at� 3 Sal�rios
+3,Everton,Andre klein,98540469,Santa Maria,891,La Salle,18 a 24 anos,Masculino,Superior Completo (3� grau),Assalariado (a),De 1 at� 3 Sal�rios
+4,Everton,Marilei,99440864,Guarani,3260,La Salle,45 a 59 anos,Feminino,Superior Incompleto (3� grau),Assalariado (a),De 1 at� 3 Sal�rios
+5,Everton,Priscila Novais,45999738642,Augusto,4,Santa Maria,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),At� 1 Sal�rio M�nimo
+6,Everton,Diego donaldo,4599516556,Augusto,846,Santa Maria,25 a 34 anos,Masculino,"P�s-Gradua��o, Mestrado, Dr.",Empres�rio (a),De 5 at� 7 Sal�rios
+7,Everton,Ilaine hoeckele,32781725,Augusto,886,Santa Maria,45 a 59 anos,Feminino,Ens. M�dio Completo (2� grau),Trabalha em casa,At� 1 Sal�rio M�nimo
+8,Everton,Everton,999678355,Antonio basso,341,Coopagro,45 a 59 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+9,Everton,Franciele rosa,30542339,Antonio basso,293,Coopagro,35 a 44 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),At� 1 Sal�rio M�nimo
+10,Everton,Laiza lima,999787324,Antonio Barros,92,Coopagro,25 a 34 anos,Feminino,"P�s-Gradua��o, Mestrado, Dr.",Assalariado (a),De 1 at� 3 Sal�rios
+11,Everton,Diego santos,998118401,Luiz boisq,74,Coopagro,25 a 34 anos,Masculino,Ens. M�dio Completo (2� grau),Funcion�rio P�blico,At� 1 Sal�rio M�nimo
+12,Everton,Sirlei dunngersleber,99386698,Luiz bosg,101,Coopagro,35 a 44 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Trabalha em casa,De 1 at� 3 Sal�rios
+13,Everton,Daniela oliveira,999330475,Luiz woisq,215,Coopagro,45 a 59 anos,Feminino,Superior Completo (3� grau),Assalariado (a),De 1 at� 3 Sal�rios
+14,Everton,Ligia borat,98201143,Ivo heiz,346,Coopagro,35 a 44 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Assalariado (a),At� 1 Sal�rio M�nimo
+15,Everton,Adriele lima de moura,998131410,Isolde timm,28,Coopagro,16 a 17 anos,Feminino,Ens. M�dio Incompleto (2� grau),Estudante,De 1 at� 3 Sal�rios
+16,Everton,Lucineide pereira,99116238,Roberto,114,Coopagro,25 a 34 anos,Feminino,"P�s-Gradua��o, Mestrado, Dr.",Assalariado (a),De 1 at� 3 Sal�rios
+17,Everton,Aparecida de fatima,999483981,Fonseca,252,Pancera,35 a 44 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Trabalha em casa,At� 1 Sal�rio M�nimo
+18,Everton,Geovania esperoto,999575569,Fonseca,1111,Pancera,45 a 59 anos,Feminino,Ens. Fundamental Completo (1� grau),Trabalha em casa,At� 1 Sal�rio M�nimo
+19,Everton,Maria rodrigues,98009527,Fonseca,218,Pancera,45 a 59 anos,Feminino,Ens. M�dio Completo (2� grau),Trabalha em casa,De 1 at� 3 Sal�rios
+20,Everton,Ana rita,999810524,General,2039,Industrial,45 a 59 anos,Feminino,"P�s-Gradua��o, Mestrado, Dr.",Aposentado (a),De 1 at� 3 Sal�rios
+21,Everton,Gustavo da luz,998489232,Santo �ngelo,1199,Industrial,25 a 34 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+22,Everton,Jo�o machato,999728961,Perneta,460,Industrial,45 a 59 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+23,Everton,Zenaide camargo,999470366,Carneto,491,Industrial,35 a 44 anos,Feminino,Ens. M�dio Completo (2� grau),Trabalha em casa,De 1 at� 3 Sal�rios
+24,Everton,Maicon zambrin,988147010,Perneta,526,Industrial,35 a 44 anos,Masculino,Superior Completo (3� grau),Assalariado (a),De 1 at� 3 Sal�rios
+25,Everton,Flavia redressa,4533781945,Pombo,1399,Industrial,25 a 34 anos,Feminino,Superior Incompleto (3� grau),Assalariado (a),De 1 at� 3 Sal�rios
+26,Everton,Vinicius pontillo,4599058942,Saturno,552,Gisela,18 a 24 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+27,Everton,Claudira luneli,30547674,Geseli,1772,Gisela,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Funcion�rio P�blico,De 1 at� 3 Sal�rios
+28,Everton,Inez Rodrigues,984011652,Barbosa,458,Gisela,45 a 59 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+29,Everton,Luciano vendramini bassi,999731952,Colombia,820,Gisela,35 a 44 anos,Masculino,"P�s-Gradua��o, Mestrado, Dr.",Assalariado (a),De 3 at� 5 Sal�rios
+30,Wilson,Cristina bilato,999236769,Rua paranavai,178,Bressan,45 a 59 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+31,Wilson,Solange Ferreira vilela,30570942,Rua castro,116,Bressan,45 a 59 anos,Feminino,Ens. M�dio Incompleto (2� grau),Trabalha em casa,De 1 at� 3 Sal�rios
+32,Wilson,Antonio julio da sulva,99220143,Rua Davi arcari,71,Bressan,45 a 59 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+33,Wilson,Gilmar da silva,999697980,Rua Get�lio pedrini,688,Bressan,35 a 44 anos,Masculino,Ens. Fundamental Completo (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+34,Wilson,Genivaldo couto,998282750,Rua olegario mariano,2196,Panorama,35 a 44 anos,Masculino,"P�s-Gradua��o, Mestrado, Dr.",Funcion�rio P�blico,De 5 at� 7 Sal�rios
+35,Wilson,Maninho adriano,997556718,Rua Willi barth,539,Panorama,35 a 44 anos,Masculino,Ens. M�dio Completo (2� grau),Aut�nomo (a),De 3 at� 5 Sal�rios
+36,Wilson,Aldair Miguel lahm,99613263,Rua dr Olavo s�cco rigon,654,Panorama,35 a 44 anos,Masculino,Superior Completo (3� grau),Assalariado (a),De 3 at� 5 Sal�rios
+37,Wilson,Suelen roos,99912190,Rua senador Rubens de melo braga,971,Panorama,35 a 44 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+38,Wilson,Jeane Gon�alvez leal de avelar,999328294,Rua tangara,666,S�o Francisco,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+39,Wilson,Jorge palm,99547021,Rua Ot�lia giareta,8327,S�o Francisco,45 a 59 anos,Masculino,Superior Completo (3� grau),Aut�nomo (a),De 3 at� 5 Sal�rios
+40,Wilson,Euzino de Jesus barbosa,42999562427,Rua vilmar ribeiros,6023,S�o Francisco,45 a 59 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+41,Wilson,Ana eduarda de almeida,998257098,Rua Carlos isbaraen,1300,S�o Francisco,18 a 24 anos,Feminino,Superior Incompleto (3� grau),Assalariado (a),De 3 at� 5 Sal�rios
+42,Danielli,Solange,88011112,Quentino bacaiu,1305,Europa/Am�rica,18 a 24 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Assalariado (a),At� 1 Sal�rio M�nimo
+43,Danielli,Lenilde,99545626,General canabarro,1169,Europa/Am�rica,45 a 59 anos,Feminino,Ens. Fundamental Completo (1� grau),Aut�nomo (a),At� 1 Sal�rio M�nimo
+44,Danielli,Maria,,Prudente de moraes,1156,Europa/Am�rica,45 a 59 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Trabalha em casa,De 1 at� 3 Sal�rios
+45,Danielli,Elaine,45)999000422,General canabarro,1109,Europa/Am�rica,25 a 34 anos,Feminino,Superior Completo (3� grau),Assalariado (a),De 1 at� 3 Sal�rios
+46,Danielli,Julio,998083687,Osvaldo cruz,,Europa/Am�rica,35 a 44 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),At� 1 Sal�rio M�nimo
+47,Danielli,Zenaide,999091467,Marques do pombal,1195,Europa/Am�rica,45 a 59 anos,Feminino,Superior Completo (3� grau),Aut�nomo (a),De 3 at� 5 Sal�rios
+48,Danielli,Luciane,99248312,Osvaldo cruz,500,Europa/Am�rica,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+49,Danielli,Ronilda,99163507,Osvaldo cruz,533,Europa/Am�rica,45 a 59 anos,Feminino,Ens. Fundamental Completo (1� grau),Aut�nomo (a),At� 1 Sal�rio M�nimo
+50,Danielli,Paulo,998288578,Argentina,233,Conc�rdia Porto Alegre,45 a 59 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+51,Danielli,Maria Aparecida,99949111,Argentina,165,Conc�rdia Porto Alegre,45 a 59 anos,Feminino,Ens. M�dio Incompleto (2� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+52,Danielli,Jailson,999900266,Flavio dalpra,1736,Pioneiro/jardim America,35 a 44 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+53,Danielli,Jose,99187396,Flavio,1484,Pioneiro/Jardim Am�rica,45 a 59 anos,Masculino,Ens. Fundamental Completo (1� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+54,Danielli,Ad�o,999517593,Flavio,1397,Pioneiro/Jardim Am�rica,35 a 44 anos,Masculino,Ens. M�dio Completo (2� grau),Funcion�rio P�blico,De 1 at� 3 Sal�rios
+55,Douglas,Celita Beatriz Dal Bosco,32529149,Rua prata,195,Becker,45 a 59 anos,Feminino,"P�s-Gradua��o, Mestrado, Dr.",Funcion�rio P�blico,De 3 at� 5 Sal�rios
+56,Douglas,Ant�nio de marche,32776367,Rua Salvador,98,Becker,60 a 69 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Empres�rio (a),De 5 at� 7 Sal�rios
+57,Douglas,Zefelino potrichi,999363366,Alcides etchegoi,1443,La Salle,60 a 69 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+58,Douglas,Alex shorr,988217833,15 de novembro,2294,La Salle,35 a 44 anos,Masculino,Superior Incompleto (3� grau),Assalariado (a),De 5 at� 7 Sal�rios
+59,Douglas,Claudete Prieto Louveira irano,999716750,Guaran�,797,La Salle,45 a 59 anos,Feminino,"P�s-Gradua��o, Mestrado, Dr.",Empres�rio (a),De 5 at� 7 Sal�rios
+60,Douglas,Rodrigo Luiz riede,44998096232,Nossa senhora da luz,71,Santa Maria,35 a 44 anos,Masculino,"P�s-Gradua��o, Mestrado, Dr.",Assalariado (a),De 1 at� 3 Sal�rios
+61,Douglas,Adriana Ang�lica,998488758,Corb�lia,842,Santa Maria,25 a 34 anos,Feminino,Superior Completo (3� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+62,Douglas,Airton dienstmann,30545258,Nayoro,87,Coopagro,45 a 59 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+63,Douglas,Angela bivilaqua,999616970,Maria Jos� Nogueira,730,Coopagro,45 a 59 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+64,Douglas,Luciene Ferreira,99800704,Ricardo galante,241,Coopagro,25 a 34 anos,Feminino,Ens. Fundamental Completo (1� grau),Desempregado (a),De 1 at� 3 Sal�rios
+65,Douglas,Suellen Camila Alves leite,99349866,Amy Russi,348,Coopagro,18 a 24 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+66,Douglas,Janete aparecida Souza,32770437,Rudoff russ,56,Coopagro,45 a 59 anos,Feminino,Ens. M�dio Completo (2� grau),Desempregado (a),De 3 at� 5 Sal�rios
+67,Douglas,Sirley Marlene kammler,999317900,Jos� Jeremias,5277,Coopagro,45 a 59 anos,Feminino,Ens. Fundamental Completo (1� grau),Empres�rio (a),De 3 at� 5 Sal�rios
+68,Henrique da Silva,Henrique da Silva,99061045,Eduardo Gato,574,Coopagro,18 a 24 anos,Masculino,Ens. M�dio Incompleto (2� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+69,Douglas,Dirlene belotto,999024123,Eug�nio Gustavo Keller,580,Coopagro,45 a 59 anos,Feminino,Ens. M�dio Completo (2� grau),Desempregado (a),De 3 at� 5 Sal�rios
+70,Douglas,Solange Gon�alves de Oliveira,91149314,Alan Kardec,198,Pancera,35 a 44 anos,Feminino,Ens. M�dio Incompleto (2� grau),Desempregado (a),De 1 at� 3 Sal�rios
+71,Douglas,Alexandre Rodrigues,N,Bezerra de Menezes,888,Pancera,35 a 44 anos,Masculino,Superior Completo (3� grau),Profissional Liberal,De 3 at� 5 Sal�rios
+72,Douglas,Alessandra vilasbb,"4,15E+12",Walternei ramos zaleski,100,Tocantins,16 a 17 anos,Feminino,Superior Incompleto (3� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+73,Douglas,Arlete Suzana,999323825,Padre Luiz luise,252,Tocantins,45 a 59 anos,Feminino,Superior Completo (3� grau),Assalariado (a),De 5 at� 7 Sal�rios
+74,Douglas,Rojair Carlos,999531108,Padre Luiz luise,203,Tocantins,35 a 44 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Aut�nomo (a),De 3 at� 5 Sal�rios
+75,Douglas,Cristiane Ferreira,30547911,Ipiranga,81,Vila oper�ria,35 a 44 anos,Feminino,Superior Incompleto (3� grau),Desempregado (a),De 1 at� 3 Sal�rios
+76,Douglas,Kaio Rafael klein,999241736,Rua do cedro,442,Oper�ria,25 a 34 anos,Masculino,Superior Completo (3� grau),Profissional Liberal,De 3 at� 5 Sal�rios
+77,Douglas,Charles vorpagel,999816895,Luiz de conto,632,Parizotto,35 a 44 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+78,Douglas,Darci Luiz Becker,998158051,Luiz de conto,385,Parizotto,45 a 59 anos,Masculino,Ens. Fundamental Completo (1� grau),Assalariado (a),De 3 at� 5 Sal�rios
+79,Douglas,Osmar Ferreira ver Souza,999003780,Santo campamholo,1505,Industrial,60 a 69 anos,Masculino,Ens. M�dio Completo (2� grau),Aut�nomo (a),De 5 at� 7 Sal�rios
+80,Douglas,Jaime bressan,991399316,General Daltro Filho,1177,Industrial,45 a 59 anos,Masculino,Ens. Fundamental Completo (1� grau),Agricultor (a),De 5 at� 7 Sal�rios
+81,Douglas,Araci Gasparetto,998301560,Rua Carlos Barbosa,1545,Industrial,45 a 59 anos,Feminino,Ens. M�dio Completo (2� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+82,Kristiana lopes,Kristiana Lopes,88219076,Campamholo,2151,Industrial,25 a 34 anos,Feminino,"P�s-Gradua��o, Mestrado, Dr.",Empres�rio (a),De 3 at� 5 Sal�rios
+83,Douglas,Gleci leseux,N,Santa Rosa,1245,Industrial,45 a 59 anos,Feminino,"P�s-Gradua��o, Mestrado, Dr.",Funcion�rio P�blico,De 3 at� 5 Sal�rios
+84,Douglas,Dione milani,991359927,General Daltro Filho,518,Jisela,35 a 44 anos,Feminino,"P�s-Gradua��o, Mestrado, Dr.",Funcion�rio P�blico,De 5 at� 7 Sal�rios
+85,Douglas,Gilberto scaim,"0,999115659",Uruguai,502,J jisele,45 a 59 anos,Masculino,Superior Incompleto (3� grau),Aut�nomo (a),De 5 at� 7 Sal�rios
+86,Douglas,Jos� Eduardo,999292134,Pinheiro Machado,786,Jisele,45 a 59 anos,Masculino,Superior Completo (3� grau),Assalariado (a),De 5 at� 7 Sal�rios
+87,Douglas,Lincon Silva,998565736,Uruguai,789,Jisele,18 a 24 anos,Masculino,Ens. M�dio Completo (2� grau),Empres�rio (a),De 3 at� 5 Sal�rios
+88,Douglas,Daiane Aleixo bchiotte,998404378,Rua Arnaldo adubo nunes,598,Gisela,25 a 34 anos,Feminino,"P�s-Gradua��o, Mestrado, Dr.",Desempregado (a),De 3 at� 5 Sal�rios
+89,Douglas,Celiria klug,3252 6154,Gilberto gotierre,452,Gisela,60 a 69 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Aposentado (a),De 3 at� 5 Sal�rios
+90,Douglas,Gudron voelz,999477762,Av Rio grande do sul,470,Porto Alegre,45 a 59 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+91,Douglas,Barnab� Nogueira,999831040,Porto Alegre,516,Porto Alegre,60 a 69 anos,Masculino,"P�s-Gradua��o, Mestrado, Dr.",Assalariado (a),De 3 at� 5 Sal�rios
+92,Douglas,Jucelei tinti,999744004,Porto Alegre,785,Porto Alegre,45 a 59 anos,Masculino,Superior Completo (3� grau),Aposentado (a),De 3 at� 5 Sal�rios
+93,Douglas,S�nia Silva,4532773657,Ceverino bbarvieri,221,Independ�ncia,35 a 44 anos,Feminino,Superior Completo (3� grau),Empres�rio (a),De 3 at� 5 Sal�rios
+94,Douglas,Cicera dos santos arruda,30531145,Nadir somenzi,448,Conc�rdia,35 a 44 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Desempregado (a),De 1 at� 3 Sal�rios
+95,Douglas,Lurdes Barbosa,998043349,Palotina,688,Conc�rdia,45 a 59 anos,Feminino,Ens. M�dio Completo (2� grau),Desempregado (a),De 3 at� 5 Sal�rios
+96,Douglas,Donizete Ferreira de Paiva,999614196,Capit�o Le�nidas Marques,351,Pioneira,45 a 59 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+97,Maiara,Diogo felipe,99192385,Rua pato branco,313,Bressan,25 a 34 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+98,Maiara,Andressa foletto gugel,998294478,Rua lapa,46,Bressan,18 a 24 anos,Feminino,Ens. M�dio Incompleto (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+99,Maiara,Jos� da Silva,99177266,Joana pesoto pereira,636,Bressan,45 a 59 anos,Masculino,Ens. M�dio Completo (2� grau),Aposentado (a),De 1 at� 3 Sal�rios
+100,Maiara,Cl�udia aparecida da Silva,998137454,Rua Joana presotto perin,783,Bressan,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+101,Maiara,Vilmar dalanora,99181758,Gustavo barro,1780,Panorama,45 a 59 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+102,Maiara,Luzenira Ara�jo Teixeira,99725044,Senador Rubens de melo Braga,147,Panorama,35 a 44 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+103,Maiara,Marlei dos santos pereira,99273324,Rua senador aucioli filho,2015,Panorama,35 a 44 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+104,Maiara,Devanilson Martins do Amaral,98068066,Carlos esbarain,3416,Panorama,45 a 59 anos,Masculino,Ens. Fundamental Completo (1� grau),Aposentado (a),De 1 at� 3 Sal�rios
+105,Maiara,Aparecido S�rgio aleixon,999100824,Jos� narloxi,753,S�o Francisco,45 a 59 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+106,Maiara,Omediva silva Guedes,998132707,Rua normelio Michelon,543,S�o Francisco,45 a 59 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Aposentado (a),De 1 at� 3 Sal�rios
+107,Maiara,S�rgio da Silva,99445181,Joana dalbo copetti,179,S�o Francisco,35 a 44 anos,Masculino,Ens. M�dio Completo (2� grau),Aposentado (a),De 1 at� 3 Sal�rios
+108,Maiara,Ricardo Ramos dos Santos,98182848,Joana dalbo copetti,237,S�o Francisco,35 a 44 anos,Masculino,Ens. Fundamental Completo (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+109,Maiara,Paulo Lu�s Tolentino,99150782,Jacob Alfredo kaiper,1610,S�o Francisco,45 a 59 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+110,Maiara,S�nia de oliveira vieira,999385385,Jacob Alfredo caifer,1652,S�o Francisco,45 a 59 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Trabalha em casa,At� 1 Sal�rio M�nimo
+111,Maiara,Danilo Alberto luviza,998253418,Jacob Alfredo kaifer,1691,S�o Francisco,25 a 34 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+112,Maiara,Elis�ngela Lucas secc,99144017,Francisco fincler,215,S�o Francisco,35 a 44 anos,Feminino,Superior Completo (3� grau),Assalariado (a),De 1 at� 3 Sal�rios
+113,Maiara,Angela Maria duquesne,99542393,Henrique mass,270,Panorama,35 a 44 anos,Feminino,Ens. M�dio Completo (2� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+114,Maiara,Mateus Luiz de Oliveira,98412186,Henrique mass,1,Panorama,18 a 24 anos,Masculino,Ens. M�dio Incompleto (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+115,Maiara,Rubens garcia,99238284,General Canabarro,1170,Europa/Am�rica,45 a 59 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+116,Maiara,Joelma fazoni Machado,998103223,General Canabarro,1223,Europa/Am�rica,35 a 44 anos,Feminino,Ens. Fundamental Completo (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+117,Maiara,Gemersom,32523117,Marques do pombal,1177,Europa/Am�rica,35 a 44 anos,Masculino,Superior Completo (3� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+118,Maiara,Jo�o malachin,99172585,Jo�o pessoa,1112,Europa/Am�rica,45 a 59 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+119,Maiara,Charles Ribas de Souza,98067002,F�lix da Cunha,1081,Europa/Am�rica,25 a 34 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+120,Maiara,Nilza aguiar da Silva,99037958,Marques de pombal,561,Europa/Am�rica,45 a 59 anos,Feminino,Ens. Fundamental Completo (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+121,Maiara,Marins Ribeiro,99642753,Pedro �lvares Cabral,362,Europa/Am�rica,45 a 59 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+122,Maiara,Gilmar pereira Gomes,91281109,Osvaldo Cruz,520,Europa/Am�rica,25 a 34 anos,Masculino,Superior Completo (3� grau),Assalariado (a),De 1 at� 3 Sal�rios
+123,Wilson,Ademir rohde,999091490,Rua erechin,284,Conc�rdia porto alegre,45 a 59 anos,Masculino,Ens. M�dio Completo (2� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+124,Wilson,Vin�cios gabriel,999204225,Rua Sui�a,346,Conc�rdia porto alegre,18 a 24 anos,Masculino,Ens. M�dio Incompleto (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+125,Wilson,Valdir de Paula garcia,998293378,Rua mate Laranjeiras,3405,Pioneiro europa,35 a 44 anos,Masculino,Analfabeto,Aut�nomo (a),De 1 at� 3 Sal�rios
+126,Wilson,"A essa de sou,wa",99539491,Rua gueri  o a to hio. I ari,322,Pinheirinho,35 a 44 anos,Feminino,Ens. M�dio Completo (2� grau),Trabalha em casa,De 1 at� 3 Sal�rios
+127,Wilson,Eliana aparecida ira Al eira ordigo,99691388,Rua Argentina,234,Porto Alegre,25 a 34 anos,Feminino,Superior Completo (3� grau),Assalariado (a),Acima de 7 Sal�rios
+128,Wilson,Katia Gomes leite,999044682,Rua S�o miguel,160,Pioneira,25 a 34 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+129,Wilson,Edina maura,999929944,Rua ar lei leonardi,485,Pioneira,18 a 24 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+130,Wilson,Rosilda paula da silva,998277865,Rua Em�lio nichett,372,Pioneira,25 a 34 anos,Feminino,Ens. Fundamental Completo (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+131,Wilson,Aparecido Lopes felix,99128168,Rua cuba,40,Pioneira,45 a 59 anos,Masculino,Ens. Fundamental Completo (1� grau),Aut�nomo (a),De 3 at� 5 Sal�rios
+132,Wilson,Katiuscia maiara rodrigues,98200808,Rua 25 de julho,979,Centro,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+133,Wilson,Alecsandro dos santos Henz,999432477,Rua horm�nio nichett,510,Pioneira,25 a 34 anos,Masculino,Superior Incompleto (3� grau),Funcion�rio P�blico,De 1 at� 3 Sal�rios
+134,Wilson,Luciana Amorim da silva,999106971,Rua Valdemar turati,242,Pioneira,16 a 17 anos,Feminino,Ens. M�dio Incompleto (2� grau),Estudante,De 1 at� 3 Sal�rios
+135,Wilson,Vania de Jesus modesto,988065124,Rua Rui barbosa,564,Centro,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+136,Wilson,Vanoli heimerdinger,998106372,Rua paris,673,Centro,45 a 59 anos,Masculino,Ens. Fundamental Completo (1� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+137,Wilson,Airton Nunes Pires,99232413,Rua Raimundo leonardi,719,Centro,60 a 69 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+138,Wilson,Maria de F�tima Silva de souza,998190679,Rua 25 julho,390,Centro,45 a 59 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+139,Wilson,Jennifer wurzius,99150724,Rua 25 de julho,1388,Centro,25 a 34 anos,Feminino,Superior Completo (3� grau),Estudante,De 1 at� 3 Sal�rios
+140,Wilson,John lenon Rodrigues padilha,98494819,Rua Vitoria regia,820,S�o Francisco,25 a 34 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Desempregado (a),At� 1 Sal�rio M�nimo
+141,Wilson,Givanildo alves,98233554,Rua Jacob Alfredo kaefer,2408,S�o Francisco,35 a 44 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+142,Wilson,Larissa Luiz da silva,998186446,Rua senador Rubens de Mello braga,308,Panorama,16 a 17 anos,Feminino,Ens. M�dio Incompleto (2� grau),Estudante,De 1 at� 3 Sal�rios
+143,Wilson,Genelle krambeck,999066572,Rua M�ripa,5821,Centro,35 a 44 anos,Masculino,"P�s-Gradua��o, Mestrado, Dr.",Funcion�rio P�blico,De 5 at� 7 Sal�rios
+144,Wilson,Jose Batista coutinho,99089040,Rua S�o vicente,1995,Centro,45 a 59 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+145,Wilson,Juliane scotta piveta,998265887,Guarani,2236,Centro,35 a 44 anos,Feminino,"P�s-Gradua��o, Mestrado, Dr.",Assalariado (a),De 5 at� 7 Sal�rios
+146,Janaina,Jose,998182424,Tibuscio antonias,55,Becker,Mais de 70 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Aposentado (a),De 1 at� 3 Sal�rios
+147,Janaina,Tiago,98436679,General Alcides etgoi,1297,La Salle,25 a 34 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+148,,Neisa,,,,La Salle,45 a 59 anos,Feminino,Superior Incompleto (3� grau),Assalariado (a),De 3 at� 5 Sal�rios
+149,Janaina,Neusa,32520896,7 de setembro,2261,La Salle,60 a 69 anos,Feminino,Superior Incompleto (3� grau),Aposentado (a),De 3 at� 5 Sal�rios
+150,Janaina,Debora,998128731,General Alcides etgoi,1514,Santa Maria,18 a 24 anos,Feminino,Superior Completo (3� grau),Desempregado (a),De 1 at� 3 Sal�rios
+151,Janaina,Cristiane,999981231,Augusto formogueri,1000,Santa Maria,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+152,Janaina,Rosenilda,99483349,Rodrigue alves,1520,Coopagro,35 a 44 anos,Feminino,Ens. M�dio Incompleto (2� grau),Trabalha em casa,De 1 at� 3 Sal�rios
+153,Janaina,Marcelo,99168599,Octaviano angeli,1439,Coopagro,45 a 59 anos,Masculino,Ens. M�dio Completo (2� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+154,Janaina,Silvia,999163717,Eduardo gato,159,Coopagro,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+155,Janaina,Maria,999512383,Vicente ross,228,Coopagro,45 a 59 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+156,Janaina,Nilva,44 998897230,Padre Lino biel,818,Coopagro,45 a 59 anos,Feminino,Ens. M�dio Completo (2� grau),Funcion�rio P�blico,De 3 at� 5 Sal�rios
+157,Janaina,Hertor,99163091,Jo�o Pedro borion,697,Coopagro,45 a 59 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+158,Janaina,Paula,999334113,Am�rico schio,852,Coopagro,25 a 34 anos,Feminino,Superior Completo (3� grau),Assalariado (a),De 3 at� 5 Sal�rios
+159,Janaina,Junior,999090447,Pedro lodi,598,Coopagro,25 a 34 anos,Masculino,Ens. M�dio Completo (2� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+160,Janaina,Cleber,,Am�rico shio,,Coopagro,18 a 24 anos,Masculino,Superior Completo (3� grau),Assalariado (a),De 1 at� 3 Sal�rios
+161,Janaina,Salete,99512715,Le�o deniz,989,Pancera,60 a 69 anos,Feminino,Ens. M�dio Completo (2� grau),Aposentado (a),De 1 at� 3 Sal�rios
+162,Janaina,Rosana,99841667,Bezerra,823,Pancera,35 a 44 anos,Feminino,"P�s-Gradua��o, Mestrado, Dr.",Assalariado (a),De 1 at� 3 Sal�rios
+163,Janaina,Kauana,30540992,Do rosario,950,Pancera,18 a 24 anos,Feminino,Superior Completo (3� grau),Assalariado (a),De 1 at� 3 Sal�rios
+164,Wellen correia,Fabio alexandre,,Protazio alves,2588,Industrial,35 a 44 anos,Masculino,Superior Completo (3� grau),Empres�rio (a),De 1 at� 3 Sal�rios
+165,Wellen correia,Asta wendeler,999317682,Protacio Alves,2624,Tocantins,45 a 59 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+166,Wellen correia,Murilo max geraldo,99893362,Protacio Alves,2555,Tocantins,25 a 34 anos,Masculino,Superior Incompleto (3� grau),Assalariado (a),At� 1 Sal�rio M�nimo
+167,Wilson,Noel ribeiro,99923908,Ant�nio Benevides soares,410,Oper�ria,45 a 59 anos,Masculino,Ens. M�dio Completo (2� grau),Aposentado (a),De 3 at� 5 Sal�rios
+168,Wilson,Rosa Maria de freitas,999194295,Rua portugal,871,Oper�ria,25 a 34 anos,Feminino,Ens. Fundamental Completo (1� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+169,Wilson,Edilson aparecido de oliveira,44997396702,Rua Pedro segundo,560,Parizotto,25 a 34 anos,Masculino,Ens. M�dio Incompleto (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+170,Wilson,Glademir medeiros,999108115,Rua hilberto peiter,445,Parizotto,45 a 59 anos,Masculino,Superior Completo (3� grau),Empres�rio (a),De 5 at� 7 Sal�rios
+171,Hudson costa,Kelly guerra,45998023420,3 de outubro,309,Industrial,25 a 34 anos,Feminino,Superior Completo (3� grau),Empres�rio (a),De 3 at� 5 Sal�rios
+172,Hudson costa,Divide kambuy fridrch,045 99044349,"Danie, nard",8206,Industrial,25 a 34 anos,Masculino,Superior Incompleto (3� grau),Assalariado (a),De 3 at� 5 Sal�rios
+173,Hudson costa,Clarinda luckmann,0445 999413175,Julho. De castilho,4123,Industrial,45 a 59 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+174,Hudson costa,Anselmo de Souza,045 998266871,Emilio de menezes,446,Industrial,35 a 44 anos,Masculino,Superior Incompleto (3� grau),Assalariado (a),De 3 at� 5 Sal�rios
+175,Hudson costa,Celonise sarture,045 33785182,Olavo bilaque,542,Industrial,35 a 44 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+176,Hudson costa,Rita skain,045 999732354,Grasiliano ramos,26,Industrial,35 a 44 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+177,Hudson costa,Ligia aparecida Novaes,45 30541908,Rui barbosa,3066,Gisela,35 a 44 anos,Feminino,Superior Completo (3� grau),Empres�rio (a),De 5 at� 7 Sal�rios
+178,Hudson costa,Luis carvalho,45 999496551,S�o Jo�o,71630,Gisela,35 a 44 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+179,Hudson costa,Clarise Weber,045 33781683,Valmir zanett,58,Gisela,35 a 44 anos,Feminino,Superior Incompleto (3� grau),Assalariado (a),De 3 at� 5 Sal�rios
+180,Hudson costa,Rudex,4598179056,S�o joao,35,Gisela,35 a 44 anos,Masculino,Ens. M�dio Completo (2� grau),Empres�rio (a),De 3 at� 5 Sal�rios
+181,Hudson costa,Crislaine santos,3054 8131,Anapolis,366,Gisela,25 a 34 anos,Feminino,Superior Completo (3� grau),Empres�rio (a),De 5 at� 7 Sal�rios
+182,Hudson costa,Lurdes turatto,N,S�o francisco,849,Porto Alegre,60 a 69 anos,Feminino,Ens. M�dio Incompleto (2� grau),Aposentado (a),De 1 at� 3 Sal�rios
+183,Hudson costa,Jailma luncher,045 998768900,Angelina,1152,Porto Alegre,35 a 44 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+184,,Ancelmo shuder,045 999208229,Porto alegre,1164,Porto Alegre,35 a 44 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+185,Hudson costa,Angela novare,N,Gentila  soave,612,Conc�rdia,35 a 44 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+186,Hudson costa,Elizabetr oliveira,N,Santa Justina sartore,84,Conc�rdia,35 a 44 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+187,Hudson costa,Joel Paulo silva,,Morre ir� salles,110,Pioneira,35 a 44 anos,Masculino,Ens. M�dio Incompleto (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+188,Hudson costa,Reginaldo correia,,Paranavai,74,Bressan,35 a 44 anos,Masculino,Ens. M�dio Incompleto (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+189,Hudson costa,Fernando. Zanol,,Tibagi,101,Bressan,35 a 44 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+190,Hudson costa,Ana Paula Fabiana da silva,,Ergidio,5178,Bressan,35 a 44 anos,Feminino,Ens. M�dio Incompleto (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+191,Hudson costa,Paulo amaro da silva,,Pedro belemzier,76,Bressan,35 a 44 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+192,Hudson costa,Noemi nero,991052406,Mariara azaroth,1534,Panorama,35 a 44 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+193,Hudson costa,Gentil correia,,Willi brth,1688,Panorama,45 a 59 anos,Masculino,Superior Incompleto (3� grau),Assalariado (a),De 5 at� 7 Sal�rios
+194,Hudson costa,Carlos da Silva,,Oswaldo aranha,1538,Panorama,25 a 34 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+195,Hudson costa,Joselene serrate,,Canario filho,1680,Panorama,35 a 44 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+196,Hudson costa,Alex junior bonjour,999665432,Jacob francisco,340,Panorama,25 a 34 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+197,Hudson costa,Jos� moreira sobrinho,32771023,Regina come,227,S�o Francisco,60 a 69 anos,Masculino,Superior Completo (3� grau),Assalariado (a),De 5 at� 7 Sal�rios
+198,Hudson costa,Vera dos santos,045 998555401,Regina cola,78,S�o Francisco,35 a 44 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+199,Hudson costa,Neide perreira barbosa,045 999234384,�ngelo mikeletto,511,S�o Francisco,45 a 59 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+200,Hudson costa,M�rcia perreita,045 98281065,�ngelo mijelleto,377,S�o Francisco,35 a 44 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+201,Hudson costa,Marli Teixeira,45,S�o Mateus,374,S�o Francisco,45 a 59 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+202,Hudson costa,Jair de souza primo,045 99520073,Valdemar chor,307,S�o Francisco,45 a 59 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+203,Hudson costa,Gabriella girotto,045  99895052,�ngelo,973,S�o Francisco,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+204,Hudson costa,Jose perreira,045 98333942,�ngelo mikelwtto,379,S�o Francisco,45 a 59 anos,Masculino,Ens. M�dio Completo (2� grau),Aposentado (a),De 1 at� 3 Sal�rios
+205,Hudson costa,Selma Maria dos santos,045 999277205,Caslos abaraini,2216,S�o Francisco,35 a 44 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+206,Hudson costa,Maria cheans,045 98456940,Henrrique possan,342,Panorama,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+207,Lucas Cruz,Onofre Cabral de Sousa,45999543225,Coronel Apari�o Borges,1098,Pioneira,45 a 59 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Aposentado (a),De 1 at� 3 Sal�rios
+208,Lucas Cruz,Maria Aparecida da Silva Gomes,"4,60E+11",Boa Esperan�a,749,Pioneira,35 a 44 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+209,Lucas Cruz,Osmarina Katia Gon�alves,45998099579,Cel Apar�cio Borges,907,Pioneira,25 a 34 anos,Feminino,Ens. Fundamental Completo (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+210,Lucas Cruz,Jaqueline Ferreira,45999424051,Pioneiros,290,Pioneira,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Aut�nomo (a),De 3 at� 5 Sal�rios
+211,Lucas Cruz,Clovis Francisco da Silva,45998223244,Germano Pizetto,13,Pioneira,35 a 44 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+212,Lucas Cruz,Angela Barros,45999788919,Taroba,111,Pioneira,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+213,Lucas Cruz,Luiz Schio,,Engenheiro Rebou�as,42,Pioneira,45 a 59 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Aposentado (a),De 1 at� 3 Sal�rios
+214,Lucas Cruz,Luzia Pereira,,Para�ba,435,Pioneira,35 a 44 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Trabalha em casa,De 1 at� 3 Sal�rios
+215,Lucas Cruz,Tereza Bolonhezi,,Itapu�,667,Pioneira,45 a 59 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Aposentado (a),De 1 at� 3 Sal�rios
+216,Lucas Cruz,Elzirene Masques da Silva,,Caldas Junior,445,Pioneira,45 a 59 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Aposentado (a),De 1 at� 3 Sal�rios
+217,Lucas Cruz,Nadir Barbosa,,Getulio Vargas,391,Pioneira,60 a 69 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Aposentado (a),De 1 at� 3 Sal�rios
+218,Lucas Cruz,Marisa De Sousa Soares,45998206457,Cianorte,1,Pioneira,25 a 34 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+219,Elias Rodrigues,Elias Rodrigues,45999435511,Pres. Getulio Vargas,221,Pioneira,45 a 59 anos,Masculino,Ens. Fundamental Completo (1� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+220,Lucas Cruz,Wilson,99364204,Rua guerino Ant�nio vicari,578,Pioneiro/jardim america,25 a 34 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Trabalha em casa,De 1 at� 3 Sal�rios
+221,Wilson,Iago guilherme,88152145,Rua Ant�nio Vicente de araujo,999,Pinheirinho,25 a 34 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+222,Wilson,Valqu�ria barth,998416860,Rua Ant�nio Vicente de araujo,890,Pinheirinho,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+223,Wilson,Ademir jose cornelios,99901837,Rua ermindo hosbach,0,Pinheirinho,25 a 34 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+224,Lucas Cruz,Marielli Souza,45998169672,25 de julho,396,Centro,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Estudante,De 1 at� 3 Sal�rios
+225,Lucas Cruz,Marildo dos Santos Nunes,"4,60E+11",Garibalde,539,Centro,18 a 24 anos,Masculino,Ens. M�dio Completo (2� grau),Estudante,De 1 at� 3 Sal�rios
+226,Lucas Cruz,Claudete Cozin Francisco,41998406861,Travessa,91,Centro,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Trabalha em casa,De 1 at� 3 Sal�rios
+227,Il�rio Malanchi,Il�rio Malanchi,45999003635,25 de julho,281,Centro,35 a 44 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+228,Lucas Cruz,Maiara Borges Francisco,4599580808,25 de julho,330,Centro,18 a 24 anos,Feminino,Ens. M�dio Completo (2� grau),Estudante,De 1 at� 3 Sal�rios
+229,Lucas Cruz,Miriam da Silva,45999054440,25 de julho,608,Centro,35 a 44 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+230,Lucas Cruz,Ivo Delino Daniel,32782839,Xv de novembro,2016,Centro,45 a 59 anos,Masculino,Ens. M�dio Incompleto (2� grau),Aposentado (a),De 3 at� 5 Sal�rios
+231,Lucas Cruz,Silvio Antonio Zanini,32522137,Cel. Vicente,2555,Centro,35 a 44 anos,Masculino,Ens. M�dio Completo (2� grau),Aposentado (a),De 3 at� 5 Sal�rios
+232,Lucas Cruz,Luiz Carlos,999665168,Cel Vicente,2782,Centro,35 a 44 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Aposentado (a),De 1 at� 3 Sal�rios
+233,Lucas Cruz,Paulo Ricardo,45999905405,Da faculdade,288,Centro,35 a 44 anos,Masculino,Ens. M�dio Completo (2� grau),Aposentado (a),De 3 at� 5 Sal�rios
+234,Lucas Cruz,Zeneide Fornari,4532525526,�urea,2178,Centro,60 a 69 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Aposentado (a),De 3 at� 5 Sal�rios
+235,Lucas Cruz,Sandra Paula da Silva,45998396156,Rui barbosa,2231,Centro,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 5 at� 7 Sal�rios
+236,Lucas Cruz,Olario Reimers,4532771225,Rui Barbosa,2010,Centro,60 a 69 anos,Masculino,Ens. M�dio Incompleto (2� grau),Aposentado (a),De 5 at� 7 Sal�rios
+237,Lucas Cruz,Junior Gabriel Batista Correa,45998191599,Al�m Barroso,2454,Centro,18 a 24 anos,Masculino,Ens. M�dio Completo (2� grau),Estudante,De 1 at� 3 Sal�rios
+238,Lucas Cruz,Pricsilla Augusta Magni Branco Schnorrenberger,4532773042,Xv de novembro,1391,Centro,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Aut�nomo (a),De 5 at� 7 Sal�rios
+239,Lucas Cruz,Elaine Litter,45991172950,Carlos sbaraini,1515,S�o Francisco,35 a 44 anos,Feminino,Ens. M�dio Incompleto (2� grau),Trabalha em casa,De 1 at� 3 Sal�rios
+240,Lucas Cruz,Iolanda Patolomeu,"4,60E+11",Tangara,785,S�o Francisco,45 a 59 anos,Feminino,Ens. Fundamental Completo (1� grau),Afastado do trabalho pelo INSS,De 3 at� 5 Sal�rios
+241,Lucas,Rubens da Silva,45998255938,Batista Luzart,437,Panorama,35 a 44 anos,Masculino,Ens. M�dio Incompleto (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+242,Lucas Cruz,F�tima Trainot,4599111387,Serafin correa,2297,Centro,35 a 44 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+243,Lucas Cruz,Clwiron Peres,45988072197,Guarani,2463,Centro,25 a 34 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+244,Loiva,Marli Terezinha wagnrr,45999822949,Av maripa,7340,Becker,45 a 59 anos,Feminino,Ens. M�dio Incompleto (2� grau),Aposentado (a),De 1 at� 3 Sal�rios
+245,Loiva,Daniela brandini,Rua redentor,293Rua redentor,293,Becker,35 a 44 anos,Feminino,Superior Completo (3� grau),Funcion�rio P�blico,De 3 at� 5 Sal�rios
+246,Loiva,Simone pedin coelho,4532526568,Rua cesafina correia,2266,La Salle,45 a 59 anos,Feminino,"P�s-Gradua��o, Mestrado, Dr.",Funcion�rio P�blico,De 5 at� 7 Sal�rios
+247,Loiva,Rafael tolotti,45999467200,Rua crissiomal,2605,La Salle,25 a 34 anos,Masculino,Ens. M�dio Completo (2� grau),Empres�rio (a),Acima de 7 Sal�rios
+248,Loiva,Francisco campanha,45880367927,Rua general Alcides etcegyen,1090,La Salle,25 a 34 anos,Masculino,Superior Completo (3� grau),Estudante,De 5 at� 7 Sal�rios
+249,Loiva,Maria vidal,45999923969,Rua moral do Pedro sibetti,233,Santa Maria,60 a 69 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Aposentado (a),At� 1 Sal�rio M�nimo
+250,Loiva,Osemira bruimsma,4599324867,Rua mural do perto sibetti,532,Santa Maria,45 a 59 anos,Feminino,Ens. Fundamental Completo (1� grau),Trabalha em casa,De 1 at� 3 Sal�rios
+251,Loiva,Reginaldo de camargo,4598285900,Rua miral do Pedro sibetti,736,Santa Maria,35 a 44 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+252,Wilson,Jo�o Cardoso dos santos,98311623,Rua Werner zielaski,2238,Coopagro,35 a 44 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+253,Wilson,Jo�o Caetano vieira,999535807,Rua Werner zielasco,2470,Coopagro,45 a 59 anos,Masculino,Ens. Fundamental Completo (1� grau),Assalariado (a),De 3 at� 5 Sal�rios
+254,Wilson,Noelmar de oliveira,44997763314,Rua Luiz Ant�nio basso,507,Coopagro,18 a 24 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+255,Wilson,Yvana tainara da costa,99185757,Rua Jo�o venturelli,2284,Coopagro,16 a 17 anos,Feminino,Ens. M�dio Incompleto (2� grau),Estudante,De 1 at� 3 Sal�rios
+256,Wilson,Gilmar da Silva bueno,99571676,Rua David galanti,2279,Coopagro,18 a 24 anos,Masculino,Ens. Fundamental Completo (1� grau),Estudante,De 1 at� 3 Sal�rios
+257,Wilson,Janaina Gomes da silva,98459479,Rua Nicolau finkler,715,Coopagro,18 a 24 anos,Feminino,Ens. Fundamental Completo (1� grau),Desempregado (a),De 1 at� 3 Sal�rios
+258,Wilson,Rubens Augusto oliveira,84057606,Rua Amadio teti pereira,2553,Coopagro,45 a 59 anos,Masculino,Ens. Fundamental Completo (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+259,Wilson,Gabriel falkowski,30554698,Rua guaira,1516,Pancera,16 a 17 anos,Feminino,Ens. M�dio Incompleto (2� grau),Estudante,Acima de 7 Sal�rios
+260,Wilson,Lucas germano,999287288,Rua senhor dos passos,731,Pancera,25 a 34 anos,Masculino,Superior Completo (3� grau),Assalariado (a),De 5 at� 7 Sal�rios
+261,Wilson,Antonio Carlos czarnieski,999796787,Rua guaira,1190,Pancera,45 a 59 anos,Masculino,Superior Completo (3� grau),Funcion�rio P�blico,Acima de 7 Sal�rios
+262,Wilson,Julho zanotto,999526259,Rua dr Osvaldo silveira,453,Industrial,35 a 44 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+263,Wilson,Aldemir comarelli,999171553,Rua 13 de abril,913,Industrial,45 a 59 anos,Masculino,Ens. Fundamental Completo (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+264,Wilson,Antonio kaefer,999216328,Rua rocha pombo,1645,Industrial,60 a 69 anos,Masculino,Superior Completo (3� grau),Assalariado (a),De 3 at� 5 Sal�rios
+265,Wilson,Reginaldo da silva,99156063,Rua noel rosa,78,Industrial,35 a 44 anos,Masculino,Ens. M�dio Incompleto (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+266,Wilson,Edinaldo goncalvez,998206858,Rua pinheiro machado,64,Gisela,25 a 34 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+267,Wilson,Rosalvo orsato,99213553,Rua Adoniran Barbosa,665,Gisela,45 a 59 anos,Masculino,Superior Completo (3� grau),Empres�rio (a),De 5 at� 7 Sal�rios
+268,Wilson,Mario lopes,998625912,Rua Borges de medeiros,205,Gisela,45 a 59 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+269,Wilson,Flavio giacomel,999719070,Rua jose bortoloto,643,Gisela,35 a 44 anos,Masculino,"P�s-Gradua��o, Mestrado, Dr.",Aut�nomo (a),De 3 at� 5 Sal�rios
+270,Wilson,Alex anderson,998173842,Rua Gilberto gutcheres bektrao,623,Gisela,25 a 34 anos,Masculino,Superior Completo (3� grau),Assalariado (a),De 3 at� 5 Sal�rios
+271,Wilson,Vanderlei Alves schlindwein,999500968,Rua Gilberto Guti�rrez beltrao,824,Gisela,35 a 44 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 5 at� 7 Sal�rios
+272,Wilson,Jadiel lima de souza,98116898,Rua belo horizonte,240,Porto Alegre,35 a 44 anos,Masculino,Ens. Fundamental Completo (1� grau),Assalariado (a),De 3 at� 5 Sal�rios
+273,Wilson,Simone cruz de oliveira de jesus,99164079,Rua cuiaba,271,Porto Alegre,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Trabalha em casa,De 1 at� 3 Sal�rios
+274,Wilson,Eliane leal da silva,998156145,Rua julho werni,311,Porto Alegre,18 a 24 anos,Feminino,Superior Incompleto (3� grau),Assalariado (a),De 1 at� 3 Sal�rios
+275,Wilson,Adreia regina vandrese,99371464,Av pioneiro,92,Independ�ncia,35 a 44 anos,Feminino,"P�s-Gradua��o, Mestrado, Dr.",Funcion�rio P�blico,De 5 at� 7 Sal�rios
+276,Wilson,Luciana dos santos freire,91417849,Rua nelson lorenz,234,Conc�rdia,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+277,Wilson,Maria cleci de oliveira,99870145,Rua Ant�nio heiss,553,Conc�rdia,35 a 44 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Trabalha em casa,De 1 at� 3 Sal�rios
+278,Wilson,Wilson,Renam Diego dos santos,Rua monte castelo,90,Pioneira,18 a 24 anos,Masculino,Ens. Fundamental Completo (1� grau),Afastado do trabalho pelo INSS,De 1 at� 3 Sal�rios
+279,Wilson,Marcelo immieg,99890957,Rua tangara,1427,S�o Francisco,18 a 24 anos,Masculino,Ens. Fundamental Completo (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+280,Wilson,Fabio moura,999993563,Rua sestiluo larizzoto,5860,S�o Francisco,35 a 44 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+281,Wilson,Cleonice de oliveira,99204450,Rua Amelio thome,8854,S�o Francisco,35 a 44 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Trabalha em casa,De 1 at� 3 Sal�rios
+282,Wilson,Wilson,Volmir da Silva,Rua jozefina Refatti,8679,S�o Francisco,35 a 44 anos,Masculino,Ens. M�dio Incompleto (2� grau),Freelancer ou Bico,De 1 at� 3 Sal�rios
+283,Wilson,Edilson Carlos,998235084,Rua sezario de oliveira,26,Panorama,25 a 34 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+284,Wilson,Daniel jose dos santos,999719827,Rua general camara,985,Europa/Am�rica,25 a 34 anos,Masculino,Ens. M�dio Incompleto (2� grau),Desempregado (a),De 1 at� 3 Sal�rios
+285,Wilson,Israel maximo,0,Rua marqu�s pombal,1059,Europa/Am�rica,45 a 59 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+286,Wilson,Meire daine florencio,998302955,Rua marqu�s pombal,1072,Europa/Am�rica,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+287,Wilson,Valdinei Cardoso dos santos,99911370,Rua Jo�o pessoa,949,Europa/Am�rica,25 a 34 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+288,Wilson,Michel Cristina Ces�rio cortes,998073467,Rua Benjamin constante,586,Europa/Am�rica,25 a 34 anos,Masculino,Ens. M�dio Incompleto (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+289,Wilson,Vanderleia Rodrigues de souza,98015963,Rua Benjamin constate,643,Europa/Am�rica,35 a 44 anos,Feminino,Ens. M�dio Incompleto (2� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+290,Wilson,Daniel ferreira,998407846,Rua jose de alencar,693,Europa/Am�rica,60 a 69 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+291,Wilson,Jair ramos,98312729,Rua Em�lio dietrich,195,Europa/Am�rica,35 a 44 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+292,Maiara,Roseli dalmazo,30530080,Cerro largo,642,Conc�rdia Porto Alegre,45 a 59 anos,Feminino,Ens. M�dio Incompleto (2� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+293,Maiara,Romilda Rodrigues dos santos,98517264,Cerro largo,222,Conc�rdia Porto Alegre,60 a 69 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+294,Maiara,Viviane pinheiro ribeiro da Silva,99612713,Rodolfo Becker,1607,Pioneiro/Jardim Am�rica,25 a 34 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+295,Maiara,Francisco Souza,998032128,Rodolfo Becker,1587,Pioneiro/Jardim Americar,45 a 59 anos,Masculino,Ens. M�dio Completo (2� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+296,Maiara,Rodrigo piccini,44-997642351,Castro Alves,6,Pioneira,18 a 24 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+297,Maiara,Elza santos,999496427,Castro Alves,170,Pioneira,60 a 69 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Aposentado (a),De 1 at� 3 Sal�rios
+298,Maiara,Ulices Sim�o de oliveira,999410952,Jose do patroc�nio,211,Pioneira,45 a 59 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Aposentado (a),De 1 at� 3 Sal�rios
+299,Maiara,Suellen foga�a,998121831,Rua vereador Jos� Pedro brum,53,Pioneira,16 a 17 anos,Feminino,Superior Incompleto (3� grau),Assalariado (a),De 1 at� 3 Sal�rios
+300,Maiara,Edson aluir rigo,45-999524745,Marcirio dias,16,Pioneira,35 a 44 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+301,Maiara,Gerlado domingos,999467431,Felipe camarao,32,Pioneira,60 a 69 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Aposentado (a),De 1 at� 3 Sal�rios
+302,Maiara,Alan Henrique morais,98245048,Vasco da gama,44,Pioneira,18 a 24 anos,Masculino,Ens. Fundamental Completo (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+303,Maiara,Caio Henrique de oliveira,11 983017743,Marc�lio dias,183,Pioneira,18 a 24 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+304,Maiara,Iris favreto,99710370,Anita Garibaldi,231,Centro,60 a 69 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Aposentado (a),De 1 at� 3 Sal�rios
+305,Maiara,Lucilene serafim,99859535,Tomaz Gonzaga,1595,Pioneira,45 a 59 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+306,Lucas Cruz,Carlos Aparecido da silva,45998819380,Rodolfo Becker,267,Pioneiro/Jardim America,35 a 44 anos,Masculino,Ens. M�dio Incompleto (2� grau),Aposentado (a),De 1 at� 3 Sal�rios
+307,Lucas Cruz,Josiane Aparecida Neri Bohrer,45999187833,Rodolfo Becker,32,Pioneiro /Jardim America,25 a 34 anos,Feminino,Ens. M�dio Incompleto (2� grau),Trabalha em casa,De 1 at� 3 Sal�rios
+308,Lucas Cruz,Olinda Aparecida dos Santos Mazzele,45999386962,Pedro Nardi,1374,Pioneiro/Jardim America,35 a 44 anos,Feminino,Ens. M�dio Incompleto (2� grau),Agricultor (a),De 3 at� 5 Sal�rios
+309,Lucas Cruz,Elenise de moura da Silva,45998292050,Mal. Floriano,260,Centro,18 a 24 anos,Feminino,Ens. M�dio Completo (2� grau),Trabalha em casa,De 1 at� 3 Sal�rios
+310,Lucas Cruz,Gabriel oliveira dos Santos,45998433374,Dr. Flores,418,Centro,16 a 17 anos,Masculino,Ens. M�dio Incompleto (2� grau),Estudante,De 1 at� 3 Sal�rios
+311,Lucas Cruz,Vera Lucia Turmina,45999015446,Travessa,274,Centro,35 a 44 anos,Feminino,Ens. M�dio Incompleto (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+312,Lucas Cruz,Neusa Martins da Cruz,4532773975,Mal. Floriano,355,Centro,45 a 59 anos,Feminino,Ens. Fundamental Completo (1� grau),Trabalha em casa,De 1 at� 3 Sal�rios
+313,Lucas Cruz,Vitoria Eduarda Mousquer,45999942646,Rui barbosa,693,Centro,18 a 24 anos,Feminino,Ens. M�dio Completo (2� grau),Estudante,De 3 at� 5 Sal�rios
+314,Maiara,Nivaldo batista,,Jo�o Negr�o,495,Pioneira,Mais de 70 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Aposentado (a),De 1 at� 3 Sal�rios
+315,Maiara,Leoni e alvez dos santos,Trocou recente e n�o sabe,Milo caio,455,Pioneira,45 a 59 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+316,Maiara,Jo�o Soares,999610015,Vereador jose Pedro brum,535,Pioneira,60 a 69 anos,Masculino,Superior Completo (3� grau),Aposentado (a),De 1 at� 3 Sal�rios
+317,Maiara,Adelson de Souza,999212125,Noel rosa,149,Pioneira,45 a 59 anos,Masculino,Ens. M�dio Completo (2� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+318,Douglas,Maria In�s,999643099,Rua Bento Munhoz da rocha neto,2535,Centro,45 a 59 anos,Feminino,Superior Completo (3� grau),Empres�rio (a),Acima de 7 Sal�rios
+319,Douglas,Claudio ad�o de lima,984312380,Panambi,143,Centro,45 a 59 anos,Masculino,Ens. Fundamental Completo (1� grau),Aposentado (a),De 1 at� 3 Sal�rios
+320,Douglas,Rafael Ferrer allvei,45999262070,Rua da faculdade,81,Centro,25 a 34 anos,Masculino,Superior Completo (3� grau),Estudante,De 5 at� 7 Sal�rios
+321,Douglas,Elvira lentch,,Coronel Vicente,3020,Centro,Mais de 70 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Aposentado (a),De 1 at� 3 Sal�rios
+322,Hudson costa,Zenaide bonato,4530553131,Caetano severino,168,Centro,35 a 44 anos,Feminino,Ens. M�dio Incompleto (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+323,Hudson costa,Sueli btger,045 999103057,Caetano perin,749,Centro,45 a 59 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+324,Hudson costa,Eliana fsez,045 30541609,Jeneral stikak real,981,Centro,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+325,Hudson costa,Inez miguliorine,045 32772279,Algusto soro,1270,Centro,35 a 44 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+326,Hudson costa,Julianmo ribeiro,45999126081,Ceara,146,Centro,25 a 34 anos,Masculino,Superior Incompleto (3� grau),Assalariado (a),De 1 at� 3 Sal�rios
+327,Hudson costa,Valdomiro lopez,045 99167181,Dario milhelon,567,S�o Francisco,35 a 44 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+328,Hudson costa,Adlar cloth,4532528298,Carlos sbaraini,1750,S�o Francisco,25 a 34 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+329,Hudson costa,Donizeti de Jesus,30548542,Santos drumont,2528,Centro,35 a 44 anos,Masculino,Superior Completo (3� grau),Empres�rio (a),De 5 at� 7 Sal�rios
+330,Wilson,Luciana sabini da silva,999993565,Rua formosa,2606,La Salle,18 a 24 anos,Feminino,"P�s-Gradua��o, Mestrado, Dr.",Estudante,Acima de 7 Sal�rios
+331,Wilson,Ivaldo milan,988221382,Rua guarani,2881,La Salle,35 a 44 anos,Masculino,"P�s-Gradua��o, Mestrado, Dr.",Assalariado (a),Acima de 7 Sal�rios
+332,Wilson,Karin tormes,999590605,Rua da faculdade,1230,Santa Maria,25 a 34 anos,Feminino,"P�s-Gradua��o, Mestrado, Dr.",Funcion�rio P�blico,De 5 at� 7 Sal�rios
+333,Wilson,Marly da Silva rosa,999375188,Rua padre Antonio patui,391,Santa Maria,45 a 59 anos,Feminino,"P�s-Gradua��o, Mestrado, Dr.",Aposentado (a),De 3 at� 5 Sal�rios
+334,Wilson,La�rcio hans,998184790,Rua Maria jose,132,Santa Maria,35 a 44 anos,Masculino,"P�s-Gradua��o, Mestrado, Dr.",Assalariado (a),De 5 at� 7 Sal�rios
+335,Douglas,Ana Claudia,N,Doutor flores,139,Centro,25 a 34 anos,Feminino,Superior Completo (3� grau),Funcion�rio P�blico,De 3 at� 5 Sal�rios
+336,Douglas,Simoni huppe dos santos,98082997,Travessa,271,Centro,25 a 34 anos,Feminino,Ens. M�dio Incompleto (2� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+337,Douglas,Clarice da Silva,30541093,Doutor flores,315,Centro,35 a 44 anos,Feminino,Superior Incompleto (3� grau),Assalariado (a),De 3 at� 5 Sal�rios
+338,Douglas,Vicentina Alves da silva,32526417,Marechal floriano,491,Centro,45 a 59 anos,Feminino,Ens. M�dio Completo (2� grau),Funcion�rio P�blico,De 3 at� 5 Sal�rios
+339,Douglas,Valdirene jance da silva,99042676,12 de outubro,741,Centro,45 a 59 anos,Feminino,Superior Completo (3� grau),Desempregado (a),De 3 at� 5 Sal�rios
+340,Douglas,Irma brill,N,15 de novembro,657,Centro,60 a 69 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Aut�nomo (a),De 3 at� 5 Sal�rios
+341,Hudson costa,Sonia mara niederstrasser,045 998400316,Primo arrose,1578,Coopagro,45 a 59 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+342,Hudson costa,Denison seibold,045 999164209,Orlando desen,297,Coopagro,18 a 24 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),Acima de 7 Sal�rios
+343,Hudson costa,Rita Vicente calixto,4588187860,Otaviano angeli,1374,Coopagro,25 a 34 anos,Feminino,Ens. M�dio Incompleto (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+344,Hudson costa,Vanei schefer,045 32521026,Claudio areco,1419,Coopagro,35 a 44 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+345,Hudson costa,Pedro thomazi,45999274144,Oselino arrosi,1320,Coopagro,45 a 59 anos,Masculino,Ens. M�dio Incompleto (2� grau),Aut�nomo (a),De 3 at� 5 Sal�rios
+346,Hudson costa,Rudinei nunes,4598405772,Rua nairo,311,Coopagro,18 a 24 anos,Masculino,Ens. M�dio Incompleto (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+347,Hudson costa,Frabricia nogueira,999039436,Leopoldo angeli,1380,Coopagro,25 a 34 anos,Feminino,Superior Completo (3� grau),Funcion�rio P�blico,De 1 at� 3 Sal�rios
+348,Hudson costa,Admir santim,4532775554,Leopoldo angeli,1399,Coopagro,35 a 44 anos,Masculino,Ens. M�dio Incompleto (2� grau),Aut�nomo (a),De 3 at� 5 Sal�rios
+349,Hudson costa,Lidiane de oliveira,4598097848,Carlos luz,205,Pancera,18 a 24 anos,Feminino,Ens. M�dio Completo (2� grau),Aut�nomo (a),De 5 at� 7 Sal�rios
+350,Hudson costa,Zelia rodrigues,4498473441,Presidente ranieli mazili,205,Pancera,35 a 44 anos,Feminino,Ens. Fundamental Completo (1� grau),Assalariado (a),At� 1 Sal�rio M�nimo
+351,Hudson costa,Viviane garbim de oliveira,4532520577,Presidente caf� filho,177,Pancera,35 a 44 anos,Feminino,Ens. M�dio Completo (2� grau),Empres�rio (a),De 3 at� 5 Sal�rios
+352,Wilson,Lucineia Maria dos reis correia,999667721,Rua padr�o Luiz luize,220,Tocantins,45 a 59 anos,Feminino,"P�s-Gradua��o, Mestrado, Dr.",Funcion�rio P�blico,Acima de 7 Sal�rios
+353,Wilson,Anderson henrique  e Silva Marques,98042748,Rua padre Luiz luize,181,Tocantins,16 a 17 anos,Masculino,Superior Incompleto (3� grau),Estudante,De 3 at� 5 Sal�rios
+354,Wilson,Simone Maria briksnwr de oliveira,999538085,Rua helmut prisnitz,61,Tocantins,45 a 59 anos,Feminino,"P�s-Gradua��o, Mestrado, Dr.",Funcion�rio P�blico,De 5 at� 7 Sal�rios
+355,Wellen correia,Elis�ngela de oliveira,999869030,Ipiranga,218,Oper�ria,35 a 44 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+356,Wellen correia,Jonas woiski,,Rua da igreja,542,Oper�ria,18 a 24 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),Recusou informar
+357,Wellen correia,Rafael bordignon,998297611,Vinicius de morais,250,Parizotto,25 a 34 anos,Masculino,Superior Incompleto (3� grau),Freelancer ou Bico,At� 1 Sal�rio M�nimo
+358,Wellen correia,Andriely da cruz andrion,998446176,Lucia lorenzeti malacarne,251,Parizotto,18 a 24 anos,Feminino,Ens. M�dio Incompleto (2� grau),Desempregado (a),At� 1 Sal�rio M�nimo
+359,Hudson costa,Maria Dilma de souza,99149860,Frei timoteo,61,Pioneira,35 a 44 anos,Feminino,Ens. Fundamental Completo (1� grau),Aposentado (a),De 1 at� 3 Sal�rios
+360,Hudson costa,Rosalia aparecida da luz,045 99977973,Silva jardin,61,Pioneira,25 a 34 anos,Feminino,Ens. M�dio Incompleto (2� grau),Assalariado (a),At� 1 Sal�rio M�nimo
+361,Hudson costa,Alsira perreira,045  999620707,Getulio vargas,1137,Pioneira,35 a 44 anos,Feminino,Ens. M�dio Incompleto (2� grau),Empres�rio (a),De 3 at� 5 Sal�rios
+362,Hudson costa,Jorjina dossanros,4532522561,Get�lio vargas,1292,Pioneira,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+363,Hudson costa,Larissa gargia clain,045 30530601,Boa esperan�a,1059,Pioneira,16 a 17 anos,Feminino,Superior Incompleto (3� grau),Assalariado (a),At� 1 Sal�rio M�nimo
+364,Hudson costa,Eleandro do amaral,045 99529292,Mario pudell,211,Pioneira,25 a 34 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+365,Hudson costa,Fernanda chavier,045 998293724,Alcides Para�ba,181,Pioneira,18 a 24 anos,Feminino,Ens. M�dio Incompleto (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+366,Hudson costa,Zwelia portela,045 32526677,Itapoa,622,Pioneira,60 a 69 anos,Feminino,Ens. Fundamental Completo (1� grau),Aposentado (a),At� 1 Sal�rio M�nimo
+367,Hudson costa,Dario rodrigues,045 ...,Caldas junior,364,Pioneira,35 a 44 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+368,Hudson costa,Auri Carlos peruffo,045 99851539,Santa fe,66,Pioneira,45 a 59 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+369,Hudson costa,Rhyhn,045 998285545,Pitanga,617,Pioneira,45 a 59 anos,Masculino,Ens. M�dio Completo (2� grau),Estudante,De 1 at� 3 Sal�rios
+370,Everton,Salete locatele,99020865,Silvia manica,1067,Pioneiro jardim Am�rica,45 a 59 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Desempregado (a),De 1 at� 3 Sal�rios
+371,Everton,Aguilher Aline,99124873,Gen�sio,1588,Pioneiro jardim Am�rica,18 a 24 anos,Feminino,Ens. M�dio Completo (2� grau),Desempregado (a),At� 1 Sal�rio M�nimo
+372,Everton,Joice aparecida,998238018,Backer,1648,Pioneiro jardim Am�rica,18 a 24 anos,Feminino,Ens. M�dio Completo (2� grau),Desempregado (a),At� 1 Sal�rio M�nimo
+373,Everton,Natan Silva,991326663,Bruno,1380,Pioneiro jardim Am�rica,16 a 17 anos,Masculino,Ens. Fundamental Completo (1� grau),Estudante,At� 1 Sal�rio M�nimo
+374,Everton,Welinton dos santos,998148807,Marechal floriano,230,Centro,25 a 34 anos,Masculino,Superior Incompleto (3� grau),Estudante,De 3 at� 5 Sal�rios
+375,Everton,Luiz Alves,,15 de novembro,900,Centro,25 a 34 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 3 at� 5 Sal�rios
+376,Everton,Carlos antonio,98769493,Guarani,1009,Centro,35 a 44 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+377,Everton,Gustavo lopes,,Rui Barbosa,12,Centro,25 a 34 anos,Masculino,Ens. M�dio Completo (2� grau),Estudante,N�o sabe
+378,Everton,Maria Jos�,999279126,Rui Barbosa,588,Centro,60 a 69 anos,Feminino,Analfabeto,Aposentado (a),At� 1 Sal�rio M�nimo
+379,Everton,Irene dittz,999459624,Rio branco,674,Centro,60 a 69 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Empres�rio (a),De 3 at� 5 Sal�rios
+380,Everton,Everton,Patr�cia kaster,99861671,450,Centro,25 a 34 anos,Feminino,Superior Incompleto (3� grau),Assalariado (a),De 1 at� 3 Sal�rios
+381,Everton,Maria capela,30556937,Paulista,398,Centro,45 a 59 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Funcion�rio P�blico,De 1 at� 3 Sal�rios
+382,Everton,Tailini paganoto,99154319,Carlos Jo�o,201,Centro,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+383,Everton,Lisa Schmitt,982115712,Laribaldo,510,Centro,35 a 44 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+384,Everton,R�bson Luiz,,Tamandar�,584,Centro,60 a 69 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Aposentado (a),N�o sabe
+385,Everton,Mateus Gustavo,99461542,Travessa,354,Centro,18 a 24 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Assalariado (a),At� 1 Sal�rio M�nimo
+386,Everton,Isabel Greg�rio,32771893,Coronel,24,Centro,45 a 59 anos,Feminino,"P�s-Gradua��o, Mestrado, Dr.",Assalariado (a),De 1 at� 3 Sal�rios
+387,Everton,Maria sirlei,32773156,Leonard,2394,Centro,60 a 69 anos,Feminino,Ens. M�dio Completo (2� grau),Trabalha em casa,De 3 at� 5 Sal�rios
+388,Everton,Geraldo bezzera,999805101,Gua�ra,2843,Centro,45 a 59 anos,Masculino,Ens. M�dio Completo (2� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+389,Everton,Norma braga,999667416,Guarani,2667,Centro,45 a 59 anos,Feminino,Superior Completo (3� grau),Assalariado (a),De 1 at� 3 Sal�rios
+390,Everton,Josilei marqu�s,45999403501,Augusto,82,Centro,35 a 44 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+391,Douglas,Gumercindo nogueira de Brito,N9,�urea,1164,Centro,60 a 69 anos,Masculino,Superior Completo (3� grau),Funcion�rio P�blico,Acima de 7 Sal�rios
+392,Douglas,Ricardo Henrique muraro,999682179,Rui Barbosa,1785,Centro,18 a 24 anos,Masculino,Superior Incompleto (3� grau),Assalariado (a),De 3 at� 5 Sal�rios
+393,Douglas,Isalia rosoni,N,Dom Pedro 2,1414,Centro,60 a 69 anos,Feminino,Superior Incompleto (3� grau),Aposentado (a),De 5 at� 7 Sal�rios
+394,Douglas,Reinaldo machado,998400430,25 de junho,1335,Centro,45 a 59 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Afastado do trabalho pelo INSS,De 1 at� 3 Sal�rios
+395,Douglas,William Medeiros,98453906,Normelio michelon,582,S�o Francisco,18 a 24 anos,Masculino,Superior Incompleto (3� grau),Estudante,De 3 at� 5 Sal�rios
+396,Douglas,Everaldo Janu�rio,99207960,Joana dalcopete,179,S�o Francisco,45 a 59 anos,Masculino,Ens. M�dio Completo (2� grau),Afastado do trabalho pelo INSS,De 3 at� 5 Sal�rios
+397,Douglas,Ivair Pedro fiorentin,32525051,Panambi,250,Centro,45 a 59 anos,Masculino,"P�s-Gradua��o, Mestrado, Dr.",Assalariado (a),De 5 at� 7 Sal�rios
+398,Douglas,Michelle souza,999311248,.,730,Centro,18 a 24 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+399,Luana,Clonc fritsen da silva,45999636134,Julh fe castilho,3686,Industrial,35 a 44 anos,Feminino,Ens. M�dio Incompleto (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+400,Luana,Rita cielo,98332678,Rua Julio Castilhs,4162,Industrial,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+401,Luana,Eloi pigoso,998322054,Julio de Castilhos,3586,Industrial,45 a 59 anos,Feminino,Ens. Fundamental Incompleto (1� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+402,Luana,Marcelo,4599938292,Santos dumont,4773,Industrial,35 a 44 anos,Masculino,Superior Completo (3� grau),Aut�nomo (a),De 3 at� 5 Sal�rios
+403,Luana,Joao pedro,999832695,Rua graciliano ramos,319,Industrial,18 a 24 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+404,Luana,Ademar Souza Marquez,9991317451,Caetano severino perin,811,Gisela,60 a 69 anos,Masculino,Superior Completo (3� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+405,Luana,Eliseu  dos Santos,,Pinheirpo Machado,842,Gisela,60 a 69 anos,Masculino,Ens. Fundamental Completo (1� grau),Aposentado (a),De 1 at� 3 Sal�rios
+406,Luana,Ines,99155021,Waldemar rosconi,569,Gisela,45 a 59 anos,Feminino,Ens. M�dio Completo (2� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+407,Luana,Marta,,Rua itamarati,628,Gisela,Mais de 70 anos,Feminino,Ens. Fundamental Completo (1� grau),Aposentado (a),De 1 at� 3 Sal�rios
+408,Luana,Maria,,Ivai,216,Porto Alegre,45 a 59 anos,Feminino,Analfabeto,Aposentado (a),At� 1 Sal�rio M�nimo
+409,Luana,Luiz,41998841375,Rua Dona Lucia,305,Porto Alegre,25 a 34 anos,Masculino,Superior Completo (3� grau),Assalariado (a),De 1 at� 3 Sal�rios
+410,Luana,Renan,999347331,Pedro Alvarez Cabral,2521,Conc�rdia,25 a 34 anos,Masculino,"P�s-Gradua��o, Mestrado, Dr.",Assalariado (a),De 1 at� 3 Sal�rios
+411,Luana,Dagmar,98406808,Aldemiro comarelo,445,Conc�rdia,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Aut�nomo (a),De 3 at� 5 Sal�rios
+412,Luana,Eliton,98622430,Padre Luciano ambrozine,218,Pioneira,18 a 24 anos,Masculino,Ens. Fundamental Completo (1� grau),Assalariado (a),De 1 at� 3 Sal�rios
+413,Wilson,Cromisson Machado vieira,998526055,Rua dumond andrade,224,Europa/Am�rica,25 a 34 anos,Masculino,Ens. Fundamental Incompleto (1� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+414,Wilson,Juliana Luz felizardo,98089885,Rua Oswaldo Cruz,937,Europa/Am�rica,25 a 34 anos,Feminino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+415,Danielli,Almira,32528576,Carlos gomes,591,Europa/Am�rica,45 a 59 anos,Feminino,Ens. Fundamental Completo (1� grau),Aut�nomo (a),De 1 at� 3 Sal�rios
+416,Danielli,Jose Valdecir,45)99164594,Carlos gomes,23,Europa/Am�rica,35 a 44 anos,Masculino,Ens. M�dio Incompleto (2� grau),Assalariado (a),At� 1 Sal�rio M�nimo
+417,Hudson Costa,Jose beedito fasilva,45999660749,Serro argo,671,Concordia Porto Alegre,45 a 59 anos,Masculino,Ens. M�dio Completo (2� grau),Assalariado (a),De 1 at� 3 Sal�rios
+418,Hudson costa,Samuel de olivera,99836868,Erexim,126,Concordia Porto Alegre,35 a 44 anos,Masculino,Ens. M�dio Completo (2� grau),Empres�rio (a),De 3 at� 5 Sal�rios
+419,Hudson costa,Jose ds Santos filh,045 98030575,Adolfo beckr,1800,Pioneiro/Jardim America,60 a 69 anos,Masculino,Ens. M�dio Completo (2� grau),Aposentado (a),De 1 at� 3 Sal�rios
